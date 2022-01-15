@@ -1,0 +1,95 @@
+  
+  .textoConocimiento{
+    font-size: 20px;
+    width: 200px; 
+    margin-top: 15px ;
+    color:white;
+  }
+
+  .textoListaCursos{
+    font-size: 17px;
+    color:white;
+  }
+   
+  .linkProyecto{
+    width: 100%;
+    font-size: 13px;
+    margin-left:65%;
+    margin-top:28px;
+    margin-bottom: 8px;
+    box-shadow:  0 0 0.4rem #292828;
+  }
+
+  .btnTexto{
+    text-align: start;
+    width: auto;
+    margin-left: -100px;
+    margin-right: 110px;
+  }
+    
+  .linkProyecto:hover{
+    background-color: aliceblue;
+    color:#d41e1e;
+  }
+  
+  p{
+    color: black;
+    font-size: 13px;
+  }
+
+  .mostrar{
+    font-size: 17px;
+    color:white;
+    margin-top:40px;
+    margin-left: -115px;
+  }
+
+  .columna:hover{
+    box-shadow: 0 0 0.5rem #c01414 inset;
+  }
+
+  .columna{
+    border-bottom:2px solid #292828;
+  }
+
+  .row{
+    margin-left: 0px;
+    margin-top:-20px;
+  }
+
+  .fondoConocimientos{
+   height: 280px;
+   
+  }
+
+  .thead-dark, .table{
+    color:white;
+    font-size: 15px;   
+    border-bottom: 1px solid transparent;
+    width: 103%;
+  }
+
+  .table{
+    border: 1px solid white;
+  }
+
+  .datosBody {
+    background-color: white;
+    color: #292828;
+    border: 1px solid #292828;
+    border-radius: 5px;
+  }
+
+  .hs{
+  text-align: center;
+  }
+
+  .alineaBtn{
+   margin-left: 57%;
+   display: flex;
+  }
+
+  .iniFin{
+    width: 75px;
+  }
+
